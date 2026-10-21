@@ -4,3 +4,4 @@ html practice test
 TLDR;
 
 Use this as a template to answer the questions in the files
+[Q3](q1.html) Hehe
